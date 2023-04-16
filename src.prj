@@ -1,0 +1,6 @@
+src=$PWD CD=. filter="*.h *.cpp" {
+ Timer.h
+ test.h
+ Timer.cpp
+ test.cpp
+}
